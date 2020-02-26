@@ -16,11 +16,17 @@ title: 友链
 <p>
 
 <h2> IM大朋友 </h2>  
-一个帅气的学者
+  一个帅气的学者
 
 点我进入 <a target="_blank" href='https://jing-hua.github.io/'>IM大朋友</a> 
 
 <p>
+
+<p> 
+
+<p> 
+
+<p> 
 
 <p> 
 
