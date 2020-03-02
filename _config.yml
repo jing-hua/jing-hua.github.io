@@ -63,7 +63,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 主页, description: archive, url: '/zhuye/'}   
+    - {title: 首页, description: archive, url: '/zhuye/'}   
     - {title: 友链, description: archive, url: '/youlian/'}   
     - {title: 标签, description: tags, url: '/tags/'}      
     - {title: 关于我, description: about, url: '/about'}      
