@@ -23,7 +23,7 @@ title: 友链
 <h2> 大朋友和小朋友的相册 </h2>  
   人生喜相逢 
 
-点我进入 <a target="_blank" href='https://jing-hua.github.io/xc'>大朋友和小朋友的相册</a> 
+插件原因建议电脑打开 <a target="_blank" href='https://jing-hua.github.io/xc'>大朋友和小朋友的相册</a> 
 
 <p>
 
