@@ -66,7 +66,7 @@ nav:
     - {title: 首页, description: archive, url: '/zhuye/'}   
     - {title: 友链, description: archive, url: '/youlian/'}   
     - {title: 标签, description: tags, url: '/tags/'}      
-    - {title: 相册, description: tags, url: '/xc/'}      
+    - {title: 相册, description: archive, url: '/xc/'}      
     - {title: 关于我, description: about, url: '/about'}      
     
 
