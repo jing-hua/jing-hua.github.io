@@ -20,6 +20,11 @@ title: 友链
 
 点我进入 <a target="_blank" href='https://jing-hua.github.io/dd#!/'>大朋友和小朋友的小窝</a> 
 
+<h2> 大朋友和小朋友的相册 </h2>  
+  人生喜相逢
+
+点我进入 <a target="_blank" href='https://jing-hua.github.io/xc/'>大朋友和小朋友的相册</a> 
+
 <p>
 
 <p> 
