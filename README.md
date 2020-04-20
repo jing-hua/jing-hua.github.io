@@ -46,7 +46,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 根据上面【提示】修改过后，在你的github里创建一个username.github.io的仓库，username指的值你的github的用户名。      
 创建完成后，把我的这个模板使用git push到你的username.github.io仓库下就行了。
-搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)。
+搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](https://github.com/jing-hua/jing-hua.github.io/blob/master/README.md)。
 
 
 ### 效果预览
