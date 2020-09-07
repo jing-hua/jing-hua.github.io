@@ -14,8 +14,8 @@ body { font-size: 12px;color: #5d5d5d;background: #DDD6CC; }
 header { 
 width: 100%; 
 margin: auto; 
-border-bottom: #3c7a48 1px solid ;
-background:#486932 url(../images/bg-girl.jpg) center 0 scroll no-repeat;/*height: 350px;*/
+border-bottom: #000000 1px solid ;
+background:#000000 url(../images/bg-girl.jpg) center 0 scroll no-repeat;/*height: 350px;*/
 position: relative;
 z-index: 99;
 
@@ -28,7 +28,7 @@ z-index: 99;
 
 
 /*content*/
-.mainContent { background: #000000width: 1000px; margin: 20px auto 70px; overflow: hidden ;min-height: 800px;}
+.mainContent { background: #000000 width: 1000px; margin: 20px auto 70px; overflow: hidden ;min-height: 800px;}
 aside { width: 270px; float: left; }
 .avatar-m{}
 .avatar { margin: 20px auto 0px; width: 160px; height: 160px; border-radius: 160px; -moz-border-radius: 160px; -webkit-border-radius: 160px; }
@@ -68,13 +68,13 @@ aside { width: 270px; float: left; }
     color: #666;
     text-align: center;
 }
-.userinfo a { color: #3c7a48; }
+.userinfo a { color: #000000; }
 .userinfo a:hover { color: #000 }
 .q-fans, .btns a { padding: 0 10px }
 .q-fans a { font-weight: bold; }
 .btns a { border-right: #dad9d5 1px solid; }
 aside section { display: block; overflow: hidden }
-aside section h2 { background: #3C7E42; color: #FFF; padding-left: 30px; height: 30px; line-height: 30px; font-size: 14px; }
+aside section h2 { background: #000000; color: #FFF; padding-left: 30px; height: 30px; line-height: 30px; font-size: 14px; }
 .taglist ul { overflow: hidden;padding: 10px; }
 .newpic ul{ overflow: hidden;}
 .newpic ul li { display: inline; width: 52px; height: 52px; }
@@ -135,36 +135,25 @@ article ul.text img {
     width: 65px;
     height: 65px;
 }
-.textfoot div.qqzone:hover{background: url(../images/qqzone-a.png);}
-.textfoot div.weixin:hover{background: url(../images/weixin-a.png);}
-.textfoot div.weibo:hover{background: url(../images/weibo-a.png);}
-.textfoot div.qq:hover{background: url(../images/qq-a.png);}
-.textfoot div.taobao:hover{background: url(../images/taobao-a.png);}
-.textfoot div.douban:hover{background: url(../images/douban-a.png);}
-.textfoot div.zhihu:hover{background: url(../images/zhihu-a.png);}
-.textfoot div.tieba:hover{background: url(../images/tieba-a.png);}
-.textfoot div.renren:hover{background: url(../images/renren-a.png);}
 
-.textfoot div.qqzone{background: url(../images/qqzone.png);}
+.textfoot div.weixin:hover{background: url(../images/weixin-a.png);}
+
+.textfoot div.qq:hover{background: url(../images/qq-a.png);}
+
 .textfoot div.weixin{background: url(../images/weixin.png);}
-.textfoot div.weibo{background: url(../images/weibo.png);}
+
 .textfoot div.qq{background: url(../images/qq.png);}
-.textfoot div.taobao{background: url(../images/taobao.png);}
-.textfoot div.douban{background: url(../images/douban.png);}
-.textfoot div.zhihu{background: url(../images/zhihu.png);}
-.textfoot div.tieba{background: url(../images/tieba.png);}
-.textfoot div.renren{background: url(../images/renren.png);}
 
 /* footer */
 footer {border-top:3px solid #1d953f;background: #242221; width: 100%;margin-top:80px;z-index: 9999;position: absolute;  }
-.footavatar { width: 700px; margin: auto; position: relative; color: #666; }
+.footavatar { width: 700px; margin: auto; position: relative; color: #000000; }
 .footavatar img{ height:133px;width:136px;}
-.footphoto { position: absolute; top: -58px; left: 20px; display: block;outline:2px solid #1d953f;}
+.footphoto { position: absolute; top: -58px; left: 20px; display: block;outline:2px solid #FFFFFF;}
 .footinfo { display: block; padding: 0 0 0 180px }
-.fname { color: #f16e50; margin-top: 16px; font-size: 18px; line-height: 28px; }
+.fname { color: #000000; margin-top: 16px; font-size: 18px; line-height: 28px; }
 .fname a { color: #fff; }
 .finfo { line-height: 22px; }
-.visitor h2 a:hover{color: #4caf50;}
+.visitor h2 a:hover{color: #000000;}
 .visitor { width: 800px; margin: 40px auto 0; clear: both; border-top: 1px solid #32302e; padding-top: 30px; overflow: hidden; }
 .visitor h2 { color: #fff; font-size: 14px; font-weight: normal; padding: 0 55px 0px 20px; }
 .visitor ul { padding: 20px }
@@ -174,7 +163,7 @@ footer {border-top:3px solid #1d953f;background: #242221; width: 100%;margin-top
 .Copyright { text-align: center; color: #959595; }
 .Copyright ul a { color: #fff; display: inline; padding: 0 10px; }
 .Copyright ul a:nth-child(-n+1) { border-right: #999 1px solid }
-.Copyright ul a:hover { color: #3B7F42; }
+.Copyright ul a:hover { color: #000000; }
 /*topnav*/
 .topnav{ line-height:50px; height:50px; color:#000; text-align:center; background:#FFF; position:fixed; width:100%; top:0; z-index:999; box-shadow:#333 0px 2px 2px}
 .topnav a{ color:#000; font-weight:bold; margin:0 5px}
