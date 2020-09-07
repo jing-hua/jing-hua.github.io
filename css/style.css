@@ -146,14 +146,14 @@ article ul.text img {
 
 /* footer */
 footer {border-top:3px solid #1d953f;background: #242221; width: 100%;margin-top:80px;z-index: 9999;position: absolute;  }
-.footavatar { width: 700px; margin: auto; position: relative; color: #000000; }
+.footavatar { width: 700px; margin: auto; position: relative; color: #FFFFFF; }
 .footavatar img{ height:133px;width:136px;}
 .footphoto { position: absolute; top: -58px; left: 20px; display: block;outline:2px solid #FFFFFF;}
 .footinfo { display: block; padding: 0 0 0 180px }
 .fname { color: #000000; margin-top: 16px; font-size: 18px; line-height: 28px; }
 .fname a { color: #fff; }
 .finfo { line-height: 22px; }
-.visitor h2 a:hover{color: #000000;}
+.visitor h2 a:hover{color: #FFFFFF;}
 .visitor { width: 800px; margin: 40px auto 0; clear: both; border-top: 1px solid #32302e; padding-top: 30px; overflow: hidden; }
 .visitor h2 { color: #fff; font-size: 14px; font-weight: normal; padding: 0 55px 0px 20px; }
 .visitor ul { padding: 20px }
